@@ -8,6 +8,6 @@ for i in 1..100
   puts "buzz"
   else
   puts i
-  endf
+  end
 end
 
